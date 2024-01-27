@@ -1,28 +1,28 @@
 {
-    "name": "Studious Crab #3",
-    "symbol": "CRAB",
-    "description": "The Studious Crabs are smart and productive crabs.",
-    "image": "2.png",
-    "attributes": [
-        {
-            "trait_type": "accessory",
-            "value": "laptop"
-        },
-        {
-            "trait_type": "chair",
-            "value": "blue"
-        },
-        {
-            "trait_type": "books",
-            "value": "white"
-        }
-    ],
-    "properties": {
-        "files": [
-            {
-                "uri": "2.png",
-                "type": "image/png"
-            }
-        ]
+  "name": "SMB #100",
+  "symbol": "SMB",
+  "description": "SMB is a collection of 5000 randomly generated 24x24 pixels NFTs on the Solana Blockchain. ",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "hat",
+      "value": "Green Cap"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Biker Vest"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Cigarette"
     }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }

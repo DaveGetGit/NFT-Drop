@@ -1,7 +1,7 @@
 {
-  "name": "Crab Collection",
-  "symbol": "CRAB",
-  "description": "Collection of crabs on the blockchain.",
+  "name": "SMB Collection",
+  "symbol": "SMB",
+  "description": "Collection of SMBs on the blockchain.",
   "image": "collection.png",
   "attributes": [],
   "properties": {
